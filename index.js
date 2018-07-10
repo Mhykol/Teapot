@@ -11,7 +11,8 @@ if (isCloud()) {
 }
 
 Client.on('message', message => {
-    if (message.author.id === Client.user.id) {
+
+    if (message.guild == null) {
         return;
     }
 
