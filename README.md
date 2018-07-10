@@ -2,7 +2,7 @@
 
 ## [Read the installation guide here](https://github.com/jokersus/Teapot/wiki)
 
-Small and lightweight Discord keywird logger written in discord.js
+Small and lightweight Discord keyword logger written in discord.js
 
 ![](https://files.catbox.moe/fdwfpw.png)
 ***
